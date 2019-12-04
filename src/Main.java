@@ -21,5 +21,7 @@ public class Main {
 
         System.out.println(toys.getItem(103));
         System.out.println(carParts.getItem(200));
+
+        System.out.println("test");
     }
 }
